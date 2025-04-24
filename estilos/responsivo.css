@@ -8,4 +8,4 @@ div a:hover {
 .card-imagem:hover {
     transform: scale(1.03);
     transition: transform 0.3s ease;
-}
+} 
